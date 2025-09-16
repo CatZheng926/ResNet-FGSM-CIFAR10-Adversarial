@@ -1,8 +1,6 @@
 # ResNet-FGSM-CIFAR10-Adversarial
 An exploration of adversarial attacks and defenses on the CIFAR-10 dataset using the ResNet architecture and the Fast Gradient Sign Method (FGSM).
-# Adversarial-Sample-Generation
 
-A **ResNet-18** model and a **Fast Gradient Sign Method (FGSM)** implementation in **PyTorch** for generating adversarial examples on the **CIFAR-10** dataset.
 
 -----
 
