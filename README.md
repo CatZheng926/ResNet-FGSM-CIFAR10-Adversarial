@@ -21,7 +21,7 @@ An exploration of adversarial attacks and defenses on the CIFAR-10 dataset using
 
 打开你的终端或 Git Bash，运行以下命令：
 ```bash
-git clone 
+git clone https://github.com/CatZheng926/ResNet-FGSM-CIFAR10-Adversarial.git
 ````
 
 #### 2\. 安装依赖
@@ -47,4 +47,5 @@ pip install -r requirements.txt
 ### 🖼️ 结果展示
 
 
+![adversarial_image](https://github.com/user-attachments/assets/85b392f8-9159-4cb8-b920-2bfa87dab5e8)
 
