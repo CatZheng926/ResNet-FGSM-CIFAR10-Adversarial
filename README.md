@@ -35,7 +35,11 @@ pip install -r requirements.txt
   * **生成对抗样本并评估**：
 
     ```bash
-    python main.py
+    python FGSM1.py
+    ```
+    
+    ```bash
+    python test_one.py
     ```
 
     此脚本将自动加载预训练的 ResNet-18 模型，对 CIFAR-10 数据集中的图像生成对抗样本，并评估攻击的成功率。
